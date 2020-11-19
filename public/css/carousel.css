@@ -1,0 +1,11 @@
+.container {
+    width: 100%;
+}
+.carousel-item img{
+    height: 490px;
+    width: 70px;
+}
+
+.carousel-caption h5 p{
+    margin-left: 50px;
+}
